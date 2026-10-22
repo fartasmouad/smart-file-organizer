@@ -25,10 +25,14 @@ A simple command-line utility that automatically organizes files into categorize
 ## Project Structure
 
 ```text
-file-organizer/
-├── organizer.bat
-├── organizer.sh
-└── README.md
+smart-file-organizer/
+├── bash/
+│   └── organizer.sh
+├── windows/
+│   └── organizer.bat
+├── docs/
+│   └── README.md
+└── .gitignore
 ```
 
 ## Requirements
