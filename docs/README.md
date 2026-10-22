@@ -30,10 +30,11 @@ smart-file-organizer/
 │   └── organizer.sh
 ├── windows/
 │   └── organizer.bat
-├── docs/
-│   └── README.md
-└── .gitignore
+└── docs/
+    ├── README.md
+    └── .gitignore
 ```
+
 
 ## Requirements
 
